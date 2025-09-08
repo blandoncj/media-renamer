@@ -1,6 +1,6 @@
 # 📂 Media Renamer
 
-[🇪🇸 Leer Español](./README.es.md)
+[🇪🇸 Leer en Español](./README.es.md)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
