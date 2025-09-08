@@ -76,7 +76,7 @@ Run the tool directly from the terminal:
 
 Example result:
 
-```bash
+```console
   📂 Processing 5 files in 'media'
   ✔ IMG_1234.JPG → vacation_001.jpg
   ✔ IMG_5678.PNG → vacation_002.png
