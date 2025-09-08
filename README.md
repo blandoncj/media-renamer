@@ -1,5 +1,7 @@
 # 📂 Media Renamer
 
+[🇪🇸 Leer Español](./README.es.md)
+
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -19,7 +21,7 @@ shows progress with a clean, colorful terminal interface.
 ## ✨ Features
 
 - Bulk renaming for photos **and** videos
-- Customizable prefix (`vacaction_001.jpg`)
+- Customizable prefix (`vacation_001.jpg`)
 - Dry-run mode (preview without renaming)
 - Progress bar and colorful console output
 - Supports common image and video formats
